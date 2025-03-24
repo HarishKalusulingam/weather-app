@@ -1,5 +1,5 @@
 import './index.css'
-import Weather from './Weather.jsx'
+import Weather from './weather.jsx'
 function App() {
 
 
